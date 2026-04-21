@@ -2,12 +2,6 @@
 
 <h2> ● Introduction to Game Development </h2>
 
-Code developer: Jingxiang Lin, Qicong Yu & Jiahui Huang
-
-Completion date: 2025,5,30
-
-<h2> ● Game Overview </h2>
-
 Player controls PacMan to shuttle through the maze, with the goal of collecting all the food and cherries while avoiding the pursuit of ghosts. Players can guide PacMan's movements through the arrow keys on the keyboard (↑↓←→). Ghosts will move randomly or strategically in the maze and may collide with walls. PacMan can collect food from the maze, as well as cherries and bananas, to increase the score. In addition, there are also powerpills scattered in the maze. When the Pac Man eats the powerpill, the ghosts will become fragile for the next 10 seconds, giving the PacMan a chance to eat ghosts. PacMan has four lives in total, and once all of them are lost, the game will end.
 
 <h2> ● Characters of Game </h2>
